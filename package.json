@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "author": "znan",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "@alyachan/api": "0.0.20",
     "@cacheable/node-cache": "^1.7.2",
