@@ -22,7 +22,6 @@
     "@cacheable/node-cache": "^1.7.2",
     "awesome-phonenumber": "2.59.0",
     "bytes": "^3.1.2",
-    "chalk": "4.1.2",
     "chokidar": "4.0.3",
     "dotenv": "^16.5.0",
     "file-type": "16.5.2",
