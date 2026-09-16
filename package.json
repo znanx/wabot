@@ -14,14 +14,13 @@
     "type": "git",
     "url": "git+https://github.com/znanx/wabot.git"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "author": "znan",
   "main": "lib/index.js",
   "dependencies": {
     "@alyachan/api": "0.0.20",
     "@cacheable/node-cache": "^1.7.2",
     "awesome-phonenumber": "2.59.0",
-    "bytes": "^3.1.2",
     "chokidar": "4.0.3",
     "dotenv": "^16.5.0",
     "file-type": "16.5.2",
